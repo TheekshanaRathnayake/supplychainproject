@@ -1,0 +1,47 @@
+[
+    {
+        "text": "News on 2025-04-05: transportation delays due to road closures impacting Electronics in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "West",
+            "date": "2025-04-05"
+        }
+    },
+    {
+        "text": "News on 2025-04-05: fuel price surge increasing shipping costs impacting Furniture in North.",
+        "metadata": {
+            "source": "news",
+            "category": "Furniture",
+            "region": "North",
+            "date": "2025-04-05"
+        }
+    },
+    {
+        "text": "News on 2025-04-05: severe weather disrupting logistics impacting Electronics in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "East",
+            "date": "2025-04-05"
+        }
+    },
+    {
+        "text": "News on 2025-04-06: cyberattack disrupting supplier systems impacting Furniture in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Furniture",
+            "region": "South",
+            "date": "2025-04-06"
+        }
+    },
+    {
+        "text": "News on 2025-04-06: labor shortage impacting warehouse operations impacting Furniture in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Furniture",
+            "region": "West",
+            "date": "2025-04-06"
+        }
+    }
+]

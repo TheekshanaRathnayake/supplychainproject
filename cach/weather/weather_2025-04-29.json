@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Weather in North on 2025-04-29: Rainy.",
+        "metadata": {
+            "source": "weather",
+            "region": "North",
+            "date": "2025-04-29",
+            "condition": "Rainy"
+        }
+    },
+    {
+        "text": "Weather in South on 2025-04-29: Rainy.",
+        "metadata": {
+            "source": "weather",
+            "region": "South",
+            "date": "2025-04-29",
+            "condition": "Rainy"
+        }
+    },
+    {
+        "text": "Weather in East on 2025-04-29: Cloudy.",
+        "metadata": {
+            "source": "weather",
+            "region": "East",
+            "date": "2025-04-29",
+            "condition": "Cloudy"
+        }
+    },
+    {
+        "text": "Weather in West on 2025-04-29: Snowy.",
+        "metadata": {
+            "source": "weather",
+            "region": "West",
+            "date": "2025-04-29",
+            "condition": "Snowy"
+        }
+    }
+]

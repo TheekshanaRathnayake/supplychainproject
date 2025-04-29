@@ -1,0 +1,47 @@
+[
+    {
+        "text": "News on 2025-04-05: transportation delays due to road closures impacting Toys in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Toys",
+            "region": "East",
+            "date": "2025-04-05"
+        }
+    },
+    {
+        "text": "News on 2025-04-04: fuel price surge increasing shipping costs impacting Groceries in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "East",
+            "date": "2025-04-04"
+        }
+    },
+    {
+        "text": "News on 2025-04-06: supplier bankruptcy reported impacting Toys in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Toys",
+            "region": "East",
+            "date": "2025-04-06"
+        }
+    },
+    {
+        "text": "News on 2025-04-04: factory shutdown due to power outage impacting Clothing in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Clothing",
+            "region": "West",
+            "date": "2025-04-04"
+        }
+    },
+    {
+        "text": "News on 2025-04-04: cyberattack disrupting supplier systems impacting Electronics in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "East",
+            "date": "2025-04-04"
+        }
+    }
+]

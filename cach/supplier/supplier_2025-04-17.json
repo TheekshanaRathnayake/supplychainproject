@@ -1,0 +1,122 @@
+[
+    {
+        "text": "Supplier for Toys: delayed by 5 days for 162 units of P0018 ordered on 2025-04-14 for Store S005 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "North",
+            "product_id": "P0018",
+            "store_id": "S005",
+            "date_ordered": "2025-04-14",
+            "delay_days": 5
+        }
+    },
+    {
+        "text": "Supplier for Toys: delayed by 5 days for 158 units of P0004 ordered on 2025-04-16 for Store S002 in West.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "West",
+            "product_id": "P0004",
+            "store_id": "S002",
+            "date_ordered": "2025-04-16",
+            "delay_days": 5
+        }
+    },
+    {
+        "text": "Supplier for Clothing: delayed by 5 days for 104 units of P0010 ordered on 2025-04-17 for Store S005 in West.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Clothing",
+            "region": "West",
+            "product_id": "P0010",
+            "store_id": "S005",
+            "date_ordered": "2025-04-17",
+            "delay_days": 5
+        }
+    },
+    {
+        "text": "Supplier for Toys: on schedule for 142 units of P0011 ordered on 2025-04-15 for Store S005 in East.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "East",
+            "product_id": "P0011",
+            "store_id": "S005",
+            "date_ordered": "2025-04-15",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Clothing: on schedule for 111 units of P0013 ordered on 2025-04-14 for Store S001 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Clothing",
+            "region": "North",
+            "product_id": "P0013",
+            "store_id": "S001",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Electronics: on schedule for 26 units of P0004 ordered on 2025-04-16 for Store S005 in West.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Electronics",
+            "region": "West",
+            "product_id": "P0004",
+            "store_id": "S005",
+            "date_ordered": "2025-04-16",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Groceries: on schedule for 100 units of P0017 ordered on 2025-04-17 for Store S003 in West.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Groceries",
+            "region": "West",
+            "product_id": "P0017",
+            "store_id": "S003",
+            "date_ordered": "2025-04-17",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Toys: delayed by 4 days for 194 units of P0019 ordered on 2025-04-16 for Store S005 in East.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "East",
+            "product_id": "P0019",
+            "store_id": "S005",
+            "date_ordered": "2025-04-16",
+            "delay_days": 4
+        }
+    },
+    {
+        "text": "Supplier for Toys: on schedule for 140 units of P0013 ordered on 2025-04-14 for Store S005 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "North",
+            "product_id": "P0013",
+            "store_id": "S005",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Furniture: on schedule for 50 units of P0011 ordered on 2025-04-14 for Store S001 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Furniture",
+            "region": "North",
+            "product_id": "P0011",
+            "store_id": "S001",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    }
+]

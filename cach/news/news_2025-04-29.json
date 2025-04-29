@@ -1,0 +1,47 @@
+[
+    {
+        "text": "News on 2025-04-29: raw material shortage affecting production impacting Electronics in North.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "North",
+            "date": "2025-04-29"
+        }
+    },
+    {
+        "text": "News on 2025-04-27: cyberattack disrupting supplier systems impacting Groceries in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "South",
+            "date": "2025-04-27"
+        }
+    },
+    {
+        "text": "News on 2025-04-27: customs delays holding up imports impacting Electronics in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "South",
+            "date": "2025-04-27"
+        }
+    },
+    {
+        "text": "News on 2025-04-29: cyberattack disrupting supplier systems impacting Electronics in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Electronics",
+            "region": "West",
+            "date": "2025-04-29"
+        }
+    },
+    {
+        "text": "News on 2025-04-27: transportation delays due to road closures impacting Groceries in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "South",
+            "date": "2025-04-27"
+        }
+    }
+]

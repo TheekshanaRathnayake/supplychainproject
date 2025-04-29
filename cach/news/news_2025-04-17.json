@@ -1,0 +1,47 @@
+[
+    {
+        "text": "News on 2025-04-17: cyberattack disrupting supplier systems impacting Groceries in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "West",
+            "date": "2025-04-17"
+        }
+    },
+    {
+        "text": "News on 2025-04-16: fuel price surge increasing shipping costs impacting Groceries in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "South",
+            "date": "2025-04-16"
+        }
+    },
+    {
+        "text": "News on 2025-04-17: fuel price surge increasing shipping costs impacting Furniture in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Furniture",
+            "region": "West",
+            "date": "2025-04-17"
+        }
+    },
+    {
+        "text": "News on 2025-04-16: port strike affecting shipments impacting Groceries in North.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "North",
+            "date": "2025-04-16"
+        }
+    },
+    {
+        "text": "News on 2025-04-15: transportation delays due to road closures impacting Groceries in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Groceries",
+            "region": "West",
+            "date": "2025-04-15"
+        }
+    }
+]

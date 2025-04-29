@@ -1,0 +1,122 @@
+[
+    {
+        "text": "Supplier for Toys: on schedule for 130 units of P0017 ordered on 2025-04-14 for Store S004 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Toys",
+            "region": "North",
+            "product_id": "P0017",
+            "store_id": "S004",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Electronics: delayed by 4 days for 56 units of P0019 ordered on 2025-04-15 for Store S001 in South.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Electronics",
+            "region": "South",
+            "product_id": "P0019",
+            "store_id": "S001",
+            "date_ordered": "2025-04-15",
+            "delay_days": 4
+        }
+    },
+    {
+        "text": "Supplier for Clothing: on schedule for 66 units of P0008 ordered on 2025-04-14 for Store S004 in West.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Clothing",
+            "region": "West",
+            "product_id": "P0008",
+            "store_id": "S004",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Electronics: delayed by 3 days for 57 units of P0004 ordered on 2025-04-13 for Store S004 in East.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Electronics",
+            "region": "East",
+            "product_id": "P0004",
+            "store_id": "S004",
+            "date_ordered": "2025-04-13",
+            "delay_days": 3
+        }
+    },
+    {
+        "text": "Supplier for Groceries: delayed by 5 days for 51 units of P0006 ordered on 2025-04-12 for Store S003 in South.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Groceries",
+            "region": "South",
+            "product_id": "P0006",
+            "store_id": "S003",
+            "date_ordered": "2025-04-12",
+            "delay_days": 5
+        }
+    },
+    {
+        "text": "Supplier for Furniture: on schedule for 55 units of P0008 ordered on 2025-04-12 for Store S002 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Furniture",
+            "region": "North",
+            "product_id": "P0008",
+            "store_id": "S002",
+            "date_ordered": "2025-04-12",
+            "delay_days": 0
+        }
+    },
+    {
+        "text": "Supplier for Furniture: delayed by 4 days for 76 units of P0017 ordered on 2025-04-12 for Store S002 in North.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Furniture",
+            "region": "North",
+            "product_id": "P0017",
+            "store_id": "S002",
+            "date_ordered": "2025-04-12",
+            "delay_days": 4
+        }
+    },
+    {
+        "text": "Supplier for Electronics: delayed by 2 days for 135 units of P0018 ordered on 2025-04-12 for Store S003 in South.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Electronics",
+            "region": "South",
+            "product_id": "P0018",
+            "store_id": "S003",
+            "date_ordered": "2025-04-12",
+            "delay_days": 2
+        }
+    },
+    {
+        "text": "Supplier for Clothing: delayed by 3 days for 16 units of P0002 ordered on 2025-04-15 for Store S001 in South.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Clothing",
+            "region": "South",
+            "product_id": "P0002",
+            "store_id": "S001",
+            "date_ordered": "2025-04-15",
+            "delay_days": 3
+        }
+    },
+    {
+        "text": "Supplier for Groceries: on schedule for 60 units of P0013 ordered on 2025-04-14 for Store S003 in East.",
+        "metadata": {
+            "source": "supplier",
+            "category": "Groceries",
+            "region": "East",
+            "product_id": "P0013",
+            "store_id": "S003",
+            "date_ordered": "2025-04-14",
+            "delay_days": 0
+        }
+    }
+]

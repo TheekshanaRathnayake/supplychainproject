@@ -1,0 +1,47 @@
+[
+    {
+        "text": "News on 2025-04-15: labor shortage impacting warehouse operations impacting Toys in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Toys",
+            "region": "East",
+            "date": "2025-04-15"
+        }
+    },
+    {
+        "text": "News on 2025-04-14: port strike affecting shipments impacting Clothing in South.",
+        "metadata": {
+            "source": "news",
+            "category": "Clothing",
+            "region": "South",
+            "date": "2025-04-14"
+        }
+    },
+    {
+        "text": "News on 2025-04-15: fuel price surge increasing shipping costs impacting Toys in East.",
+        "metadata": {
+            "source": "news",
+            "category": "Toys",
+            "region": "East",
+            "date": "2025-04-15"
+        }
+    },
+    {
+        "text": "News on 2025-04-14: raw material shortage affecting production impacting Toys in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Toys",
+            "region": "West",
+            "date": "2025-04-14"
+        }
+    },
+    {
+        "text": "News on 2025-04-13: port strike affecting shipments impacting Furniture in West.",
+        "metadata": {
+            "source": "news",
+            "category": "Furniture",
+            "region": "West",
+            "date": "2025-04-13"
+        }
+    }
+]
